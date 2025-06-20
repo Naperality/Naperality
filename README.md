@@ -42,7 +42,8 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)  
+[![LinkedIn](linkedin.com/in/visitacion-napoleon-p-ba6275298](#)  
+[![Email](napolytan@gmail.com)](#)
 [![Portfolio Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square)](#)
 
 ---
