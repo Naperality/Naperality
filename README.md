@@ -1,7 +1,10 @@
 # 👋 Hello there! I'm Naperality
 
 🎨 Creative developer passionate about helping artists bring their work online  
-💻 Currently building art portfolios and interactive websites using **Next.js** + **TailwindCSS**  
+💻 Currently building art portfolios and interactive websites using **Next.js** + **TailwindCSS** 
+
+Also working in studying **Python**
+
 🎥 Working with timelapse videos, illustrations, and creative web features  
 🌱 Always learning — one project at a time
 
