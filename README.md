@@ -17,7 +17,7 @@ Also working in studying **Python**
 | 🎨 [Eirah Portfolio](https://github.com/Naperality/eirah_portfolio) | A clean, minimal art portfolio for an aspiring background illustrator | `Next.js`, `TailwindCSS`, `Vercel`, `Sanity` |
 | 🏠 [Rental_Portfolio](https://github.com/Naperality/rental_web) | A simple and minimal design of rental webapp | `Next.js`, `TailwindCSS`, `Vercel` |
 | 🙋 [My_Portfolio](https://github.com/Naperality/napoleon_portfolio) | A clean personal website to showcase my own projects | `Next.js`, `TailwindCSS`, `Vercel` |
-
+| 🎯 [Python Journey]() | A clean and very clear beginner to expert level journey| `Python`
 ---
 
 ## 🛠️ Tech & Tools I Use
