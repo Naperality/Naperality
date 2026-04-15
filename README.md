@@ -21,7 +21,6 @@
 |--------|-------------|-------|
 | 🎨 [Eirah Portfolio](https://github.com/Naperality/eirah_portfolio) | A clean, minimal art portfolio for an aspiring background illustrator | `Next.js`, `TailwindCSS`, `Vercel`, `Sanity` |
 | 🏠 [VA_Portfolio](https://github.com/Naperality/va_portfolio.git) | A minimal, responsive rental listing site | `Next.js`, `TailwindCSS`, `Vercel` |
-| 🙋 [My Portfolio](https://github.com/Naperality/napoleon_portfolio) | Personal website to showcase dev and robotics work | `Next.js`, `TailwindCSS`, `Vercel` |
 | 🐍 [Python Journey](https://github.com/Naperality/Python_Journey.git) | Clean beginner-to-advanced Python practice repo | `Python` |
 | 🎓 [Capstone Project](https://github.com/Naperality/PROJECT_PROPOSAL.git) | Academic Capstone on robotics + AI integration | `Python`, `YOLOv8`, `Arduino`, `Raspberry Pi` |
 
@@ -48,6 +47,8 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgreSQL)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 
 ---
 
