@@ -56,7 +56,7 @@
 
 | 🌐 Art & Web | 🤖 Robotics & AI |
 |-------------|------------------|
-| [![Eirah Art](https://via.placeholder.com/300x180?text=Eirah+Portfolio)](https://Eirah-gallery.vercel.app) | ![Robotics Preview](https://via.placeholder.com/300x180?text=Capstone+Hardware+Preview) |
+| [![MediNow](https://raw.githubusercontent.com/Naperality/Naperality/main/Public/medinow.png)](https://https://medinow2.vercel.app/) | [![Robotics Preview](https://raw.githubusercontent.com/Naperality/Naperality/main/public/n24_rover.png)](https://github.com/Naperality/N24-Cartographer_Finder) |
 
 > *"Turning art into interactive web stories, and machines into smart assistants."*
 
