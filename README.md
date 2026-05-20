@@ -54,10 +54,11 @@
 
 ## 🌐 Creative Meets Code
 
+## 🌐 Creative Meets Code
+
 | 🌐 Art & Web | 🤖 Robotics & AI |
 |-------------|------------------|
-| [![MediNow](https://raw.githubusercontent.com/Naperality/Naperality/main/Public/medinow.png)](https://medinow2.vercel.app/) | [![Robotics Preview](https://raw.githubusercontent.com/Naperality/Naperality/main/Public/n24_rover.png)](https://github.com/Naperality/N24-Cartographer_Finder) |
-
+| <a href="https://medinow2.vercel.app/"><img src="https://raw.githubusercontent.com/Naperality/Naperality/main/Public/medinow.png" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="MediNow"></a> | <a href="https://github.com/Naperality/N24-Cartographer_Finder"><img src="https://raw.githubusercontent.com/Naperality/Naperality/main/Public/n24_rover.png" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="Robotics Preview"></a> |
 > *"Turning art into interactive web stories, and machines into smart assistants."*
 
 ---
