@@ -19,6 +19,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| 💊 [MediNow](https://github.com/Naperality/MEDITRACK.git) | A real-time medication tracking and smart reminder system | `Next.js`, `TailwindCSS`, `Vercel`, `Supabase` |
 | 🎨 [Eirah Portfolio](https://github.com/Naperality/eirah_portfolio) | A clean, minimal art portfolio for an aspiring background illustrator | `Next.js`, `TailwindCSS`, `Vercel`, `Sanity` |
 | 🏠 [VA_Portfolio](https://github.com/Naperality/va_portfolio.git) | A minimal, responsive rental listing site | `Next.js`, `TailwindCSS`, `Vercel` |
 | 🐍 [Python Journey](https://github.com/Naperality/Python_Journey.git) | Clean beginner-to-advanced Python practice repo | `Python` |
@@ -49,6 +50,7 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgreSQL)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ---
 
