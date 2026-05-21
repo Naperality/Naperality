@@ -56,8 +56,6 @@
 
 ## 🌐 Creative Meets Code
 
-## 🌐 Creative Meets Code
-
 | 🌐 Art & Web | 🤖 Robotics & AI |
 |-------------|------------------|
 | <a href="https://medinow2.vercel.app/"><img src="https://raw.githubusercontent.com/Naperality/Naperality/main/Public/medinow.png" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="MediNow"></a> | <a href="https://github.com/Naperality/N24-Cartographer_Finder"><img src="https://raw.githubusercontent.com/Naperality/Naperality/main/Public/n24_rover.png" style="width: 100%; aspect-ratio: 16/9; object-fit: cover;" alt="Robotics Preview"></a> |
@@ -78,13 +76,13 @@
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/visitacion-napoleon-p-ba6275298" target="_blank">
+  <a href="https://linkedin.com/in/napoleon-visitacion" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:napolytan@gmail.com">
+  <a href="mailto:napoleonvisitacion@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://napoleon-visitacion.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website">
   </a>
 </p>
